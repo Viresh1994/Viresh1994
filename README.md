@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Viresh1994
+- 👋 Hi, Myself @Viresh1994
 - 👀 I’m interested in Coding in javascript
 - 🌱 I’m currently learning Javascript, React
 - 💞️ I’m looking to collaborate on Web design
